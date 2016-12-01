@@ -1,4 +1,6 @@
-//
+// Created by Eric Sambell Nov 24, 2016
+
+// Based on:
 //  AppDelegate.m
 //  QCContainer
 //
